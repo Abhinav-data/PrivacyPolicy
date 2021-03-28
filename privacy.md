@@ -19,6 +19,7 @@ b. Non-Personal Information. When users interact with our application, we may co
 3. Login Data When you interact with us, or use applications, services or our website, our system may automatically collect your unique user device serial number, IP address, the type of your browser or operating system, and the date and time that you use (the "Login Data").
 
 COOKIES
+
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 Service Providers
@@ -31,6 +32,7 @@ I want to inform users of this Service that these third parties have access to y
 
 
 SECURITY
+
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
@@ -43,6 +45,7 @@ b. Non-Personal Information. We will not match non-personal information and pers
 InSaver is not affiliated with Instagram. It is a tool to download photos and videos. We respect the copyright of the owners. Therefore, DO NOT download or repost the videos and media clips without the permission of the owners or for any commercial use.
 
 CONTACT US
+
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at
 riverstudios6@gmail.com
 
