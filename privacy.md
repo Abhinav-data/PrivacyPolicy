@@ -18,6 +18,7 @@ b. Non-Personal Information. When users interact with our application, we may co
 
 3. Login Data When you interact with us, or use applications, services or our website, our system may automatically collect your unique user device serial number, IP address, the type of your browser or operating system, and the date and time that you use (the "Login Data").
 
+
 COOKIES
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
@@ -29,6 +30,7 @@ To provide the Service on our behalf;
 To perform Service-related services; or
 To assist us in analyzing how our Service is used.
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
 
 
 SECURITY
@@ -43,6 +45,8 @@ a. Personal Information. We do not store Personal Information, so your Personal 
 b. Non-Personal Information. We will not match non-personal information and personal information (such as numbering your name and your user-specific device).
 
 InSaver is not affiliated with Instagram. It is a tool to download photos and videos. We respect the copyright of the owners. Therefore, DO NOT download or repost the videos and media clips without the permission of the owners or for any commercial use.
+
+
 
 CONTACT US
 
